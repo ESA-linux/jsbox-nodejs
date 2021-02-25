@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /public users (Owner is Ambjörn Sköld)
